@@ -1,4 +1,4 @@
-3 FriendBook: Your Personal Contact Manager
+# FriendBook: Your Personal Contact Manager
 
 FriendBook simplifies managing your contacts. Add, view, search, edit, and delete friend details with ease through its intuitive interface.
 
